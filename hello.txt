@@ -1,0 +1,14 @@
+this is my git tutorial text 
+
+git init
+git commit -m "message"
+git add filename/ git add -all (this will add all files )
+
+git log = for viewing log
+git checkout = for checkouting
+git status = for viewing current status
+
+
+
+
+
